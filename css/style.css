@@ -1,0 +1,13 @@
+body {
+    color: black;
+    height: 3000px;
+}
+
+.top_nav {
+    background: #cccccc;
+}
+
+.nav_bt {
+    min-height: 70px;
+    background: #b7b7b7 !important;
+}
