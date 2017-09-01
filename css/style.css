@@ -1,13 +1,22 @@
 body {
     color: black;
-    height: 3000px;
-}
-
-.top_nav {
-    background: #cccccc;
+    background: #dae1fd;
 }
 
 .nav_bt {
     min-height: 70px;
-    background: #b7b7b7 !important;
+    background: #7f89ff !important;
+    border-bottom: 1px solid grey;
+    box-shadow: 1px 1px 1px;
+}
+
+.wrapper {
+    background: aliceblue;
+    min-height: 1000px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+#heading_h1 {
+    padding-top: 30px;
 }
