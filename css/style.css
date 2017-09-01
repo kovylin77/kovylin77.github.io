@@ -1,7 +1,6 @@
 body {
     color: black;
     background: #dae1fd;
-    box-shadow: 3px 1px 3px;
 }
 
 .nav_bt {
@@ -16,6 +15,7 @@ body {
     min-height: 1000px;
     border-left: 1px solid black;
     border-right: 1px solid black;
+    box-shadow: 3px 1px 3px;
 }
 
 #heading_h1 {
