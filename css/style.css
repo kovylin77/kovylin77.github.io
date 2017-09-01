@@ -20,3 +20,7 @@ body {
 #heading_h1 {
     padding-top: 30px;
 }
+
+.size {
+    min-height: 100px;
+}
