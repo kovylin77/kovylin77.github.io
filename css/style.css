@@ -1,6 +1,7 @@
 body {
     color: black;
     background: #dae1fd;
+    min-height: 4000px;
 }
 
 .nav_bt {
